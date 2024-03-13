@@ -60,7 +60,7 @@ Primeira versão da aplicação
 
 ## Autores
 
-Gustavo Mainchein – @gugamainchein: [URL inválido removido] – gustavomainchein@outlook.com
+Gustavo Mainchein – @gugamainchein – gustavomainchein@outlook.com
 
 Veja mais sobre mim: https://github.com/gugamainchein
 
