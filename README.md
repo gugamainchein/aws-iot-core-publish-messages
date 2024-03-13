@@ -35,10 +35,15 @@ Etapas da comunicação:
 Para rodar esse projeto, você precisa adicionar as seguintes variáveis de ambiente no seu arquivo .env:
 
 `IOT_ENDPOINT`: Endpoint do broker MQTT do AWS IoT Core.
+
 `IOT_PORT`: Porta do broker MQTT do AWS IoT Core.
+
 `IOT_REGION`: Região AWS onde o serviço IoT Core está configurado.
+
 `IOT_PRIVATE_KEY`: Caminho para o arquivo da chave privada do dispositivo.
+
 `IOT_CERTIFICATE`: Caminho para o arquivo do certificado do dispositivo.
+
 `IOT_TOPIC`: Tópico MQTT utilizado para comunicação entre o Node.js e o IoT Core.
 
 ## Execução
